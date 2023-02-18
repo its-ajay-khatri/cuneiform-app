@@ -1,0 +1,7 @@
+npm init
+npm install express
+npm install mongoose
+npm install dotenv
+npm install bcryptjs              //password encryption
+npm install jsonwebtoken
+npm install node-localstorage

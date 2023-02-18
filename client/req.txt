@@ -1,0 +1,6 @@
+npm install bootstrap@4.6.0
+npm install react-router-dom@5.2.0
+npm install jsonwebtoken
+npm install node-localstorage
+npm install redux react-redux
+npm install @emailjs/browser --save

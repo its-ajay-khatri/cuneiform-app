@@ -1,0 +1,8 @@
+
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    .col-md-6 {
+        flex: 0 0 50%;
+        max-width: 35%;
+    }
+}
