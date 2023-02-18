@@ -14,4 +14,4 @@
 
 7)now in first terminal, after installing all modules successfully, run command npm run dev(for backend server/nodejs)
 
-8)now in second terminal, after installing all modules successfully, run command npm start(for backend server/nodejs)
+8)now in second terminal, after installing all modules successfully, run command npm start(for backend frontend/ reactjs)
