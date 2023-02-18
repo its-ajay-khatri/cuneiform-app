@@ -2,7 +2,7 @@
 
 1)Create a folder(i.e. Authentication) in your respective folder(i.e. C:/Desktop/Authentication)
 
-2) drag and drop the files to the respective folders(client and server at the place i.e. C:/Desktop/Authentication/)
+2) drag and drop the files and folders(client and server) to the respective folders(client and server at the place i.e. C:/Desktop/Authentication/)
 
 3)Open 2 terminals(cmd, vscode, any), in first terminal locate to server folder(i.e. C:/Desktop/Authentication/server/ )
 
